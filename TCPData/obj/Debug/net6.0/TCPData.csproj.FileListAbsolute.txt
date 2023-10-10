@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\bin\Debug\net6.0\TCPData.deps.json
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\bin\Debug\net6.0\TCPData.dll
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\bin\Debug\net6.0\TCPData.pdb
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\TCPData.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\TCPData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\TCPData.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\TCPData.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\TCPData.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\TCPData.dll
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\refint\TCPData.dll
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\TCPData.pdb
+C:\Users\lenovo\source\repos\ThePretendCompanyApplication\TCPData\obj\Debug\net6.0\ref\TCPData.dll
